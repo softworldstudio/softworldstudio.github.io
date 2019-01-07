@@ -1,5 +1,7 @@
 {
   "h1": "A simple example",
   "change-locale": "Change locale",
-  "to-second-page": "To second page"
+  "to-second-page": "To second page",
+  "en": "English",
+  "vi": "Tiếng Việt"
 }
